@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
                Intent intent = new Intent(MainActivity.this, OrderActivity.class);
                startActivity(intent);
-               
+
                finish();
             }
         }, splashScreenTime);
