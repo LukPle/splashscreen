@@ -9,7 +9,10 @@ The application serves as an example of this feature.
 
 ## Features
 The setting of the app is a food service. The user can see a splashscreen with the logo of the delivery service for 4 seconds at the start of the application.
-After that time the user gets to the next screen.
+After that time the user gets to the next screen. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
